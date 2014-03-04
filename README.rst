@@ -10,6 +10,10 @@ Note that this is compatible with ``virtualenvwrapper``.  If a virtualenv is
 active when this script is run, then it will avoid creating a new virtualenv
 and attempt to install dependencies into the active environment.
 
+License
+-------
+`MIT <http://opensource.org/licenses/MIT>`_
+
 Usage
 -----
 - Download the script::
