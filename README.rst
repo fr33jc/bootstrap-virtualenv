@@ -19,6 +19,7 @@ Usage
 - Download the script::
 
     curl -O https://raw.github.com/fr33jc/bootstrap-virtualenv/master/bootstrap-virtualenv
+    chmod +x bootstrap-virtualenv
 
 - Edit the script locally and adjust the ``PROJECT_NAME`` and ``REQUIREMENTS``
   variables for your project::
